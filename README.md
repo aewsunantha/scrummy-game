@@ -1,1 +1,2 @@
-# scrummy-game
+# Scrummy Game
+Software Project Management Simulation Game
