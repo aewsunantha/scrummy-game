@@ -1,0 +1,266 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Story Telling/GameStarts.unity
+    guid: 261c359f949fc124fa8568672d302a46
+  - enabled: 1
+    path: Assets/Scenes/Story Telling/GameMode.unity
+    guid: ddd4d2949a4bcdc4a83e32b95e64f1b0
+  - enabled: 1
+    path: Assets/Scenes/Story Telling/TeamSetup.unity
+    guid: 03d1ecae3e30b0e4ca1168cc294d807f
+  - enabled: 1
+    path: Assets/Scenes/Story Telling/Introduce.unity
+    guid: 0c84d005da1ec8540b0e3a4e58247006
+  - enabled: 1
+    path: Assets/Scenes/office.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Story Telling/Project Requirement.unity
+    guid: c5e437cc3f80ec947b475d23f49d7cd7
+  - enabled: 1
+    path: Assets/Scenes/Story Telling/BeforeHR.unity
+    guid: d079d3a8140b6e446a3a5edb154be691
+  - enabled: 1
+    path: Assets/Scenes/minigame1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Story Telling/Finute resouremanagement.unity
+    guid: 786d00be863aa8e4cad32e6e2a28d178
+  - enabled: 1
+    path: Assets/Scenes/Story Telling/BeforeUserstory.unity
+    guid: 269c6626aaf53d942a1a04e7e48e6739
+  - enabled: 1
+    path: Assets/Scenes/Minigame 2.unity
+    guid: fad21976582d74846b394171867db63f
+  - enabled: 1
+    path: Assets/Scenes/Story Telling/Finite Userstory.unity
+    guid: fee235c130828184fa78b55cf79208f7
+  - enabled: 1
+    path: Assets/Scenes/Minigame 3.unity
+    guid: bb3a10e6a2d84d245b00ac679ab8524e
+  - enabled: 1
+    path: Assets/Scenes/Story Telling/FinitePO.unity
+    guid: 4834309659efcb24e89d7ae3044746f2
+  - enabled: 1
+    path: Assets/Scenes/Developer/DevIntro.unity
+    guid: 9c8d58d4a1ccded47afcf77a68f692d6
+  - enabled: 1
+    path: Assets/Scenes/Developer/Start Minigame 4.unity
+    guid: 0de1fc569726a0b47812f54ed1478068
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Developer/End Minigame4.unity
+    guid: 29b55733b2d0cb5469b459e3b9f00388
+  - enabled: 1
+    path: Assets/Scenes/Developer/Scrum/FirstSprint.unity
+    guid: ff2baa5f6113b104d89e2e9e165045e7
+  - enabled: 1
+    path: Assets/Scenes/Developer/Scrum/Scrum Intro.unity
+    guid: f3ece013c35dd3a44bd5914799d8c369
+  - enabled: 1
+    path: Assets/Scenes/Developer/Scrum/1DayPart1.unity
+    guid: d605d6d5aa466b1478f325c82522636d
+  - enabled: 1
+    path: Assets/Scenes/Developer/Scrum/Daily Meeting.unity
+    guid: ed0a28453406ba84895468d43d639aae
+  - enabled: 1
+    path: Assets/Scenes/Developer/Scrum/Sprint234.unity
+    guid: 895b19cace154584ab8caced2a3ec3b8
+  - enabled: 1
+    path: Assets/Scenes/Minigame 5/Requirement/Requiement.unity
+    guid: 21748e6d0c6542746b503296f592a902
+  - enabled: 1
+    path: Assets/Scenes/Minigame 5/Requirement/R2.unity
+    guid: 4c9b1e2c1dc10a343b4c3a85a0a0099e
+  - enabled: 1
+    path: Assets/Scenes/Minigame 5/Requirement/R3.1.unity
+    guid: 8f75d0bd77d14c2478fa3e1279a63322
+  - enabled: 1
+    path: Assets/Scenes/Minigame 5/Requirement/R3.2.unity
+    guid: d76081de3d803294a98c16b43698665d
+  - enabled: 1
+    path: Assets/Scenes/Minigame 5/Requirement/R3.3.unity
+    guid: 8e7f951ae2d87844ebeb44e1cf0d26fe
+  - enabled: 1
+    path: Assets/Scenes/Minigame 5/Design/Design.unity
+    guid: 55136325391bc5148b519f49080e0da2
+  - enabled: 1
+    path: Assets/Scenes/Minigame 5/Design/D2.unity
+    guid: 3fe286120316c4f488c431849be89c60
+  - enabled: 1
+    path: Assets/Scenes/Minigame 5/Design/D3.1.unity
+    guid: bb14bb035fcec3f4d81fd2e6864379bf
+  - enabled: 1
+    path: Assets/Scenes/Minigame 5/Design/D3.2.unity
+    guid: f01e4ebfd8fc3d04b9ee4877b773fc0a
+  - enabled: 1
+    path: Assets/Scenes/Minigame 5/Development/Development.unity
+    guid: 1005ebbb18cd4bb4e8f2c6bc09ba52a6
+  - enabled: 1
+    path: Assets/Scenes/Minigame 5/Development/Dev2.unity
+    guid: 98633de4339cfc840b153622eed1bfc1
+  - enabled: 1
+    path: Assets/Scenes/Minigame 5/Development/Dev3.1.unity
+    guid: 28f9eb4be6e280446a7ca84a47623f7b
+  - enabled: 1
+    path: Assets/Scenes/Minigame 5/Development/Dev3.2.unity
+    guid: a4351f839e49a55499aaf181421cfa8e
+  - enabled: 1
+    path: Assets/Scenes/Minigame 5/Development/Dev3.3.unity
+    guid: 7a460ef5404f8d24684b4a3a3b837bae
+  - enabled: 1
+    path: Assets/Scenes/Minigame 5/Testing/Testing.unity
+    guid: 33b409d7f1285704fb07f2fd906b4813
+  - enabled: 1
+    path: Assets/Scenes/Minigame 5/Testing/T2.unity
+    guid: 56ec96f3af5017c449dc0917c12a56b8
+  - enabled: 1
+    path: Assets/Scenes/Minigame 5/Testing/T3.1.unity
+    guid: d6b9d6add08f12643b0ee0878e12e295
+  - enabled: 1
+    path: Assets/Scenes/Minigame 5/Testing/T3.2.unity
+    guid: dab8dc6625991c74ab8bd1ce6ac9080f
+  - enabled: 1
+    path: Assets/Scenes/Minigame 5/Testing/T3.3.unity
+    guid: a7a94cd8ae9e5b943b57eb8a84670005
+  - enabled: 1
+    path: Assets/Scenes/Score.unity
+    guid: f1c6cb6483e6f144e84d5562f47d919e
+  - enabled: 1
+    path: Assets/Scenes/Developer/Scrum/oneday.unity
+    guid: 56a4d98b8f6b1ac4690292c7069bd4be
+  - enabled: 1
+    path: Assets/Scenes/Minigame 5/Phase/SceneP/Require1.unity
+    guid: 301ac03f8e0d8aa4e9422e97b70b4c69
+  - enabled: 1
+    path: Assets/Scenes/Minigame 5/Phase/SceneP/Require2.unity
+    guid: b89a614d72cf5674699c7dbc03383c19
+  - enabled: 1
+    path: Assets/Scenes/Minigame 5/Phase/SceneP/Dev1.unity
+    guid: 6db461c10850d2d469ad89fb1fafa226
+  - enabled: 1
+    path: Assets/Scenes/Minigame 5/Phase/SceneP/Dev22.unity
+    guid: 3081863d837e1fc4ebd6e71b2b0fbbb1
+  - enabled: 1
+    path: Assets/Scenes/Developer/Scrum/End Sprint.unity
+    guid: 0146b0609f45afe45b90c1df471bfedc
+  - enabled: 1
+    path: Assets/Scenes/Developer/Scrum/Review intro.unity
+    guid: 2a4f4b0896d952c428668690153aff51
+  - enabled: 1
+    path: Assets/Scenes/Developer/Scrum/oneday2.unity
+    guid: 71ff0033d1f55c145b7e91579bef0e12
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Developer/Scrum/FinalSprint.unity
+    guid: 1042c085a93a1e448856bd065ae3b141
+  - enabled: 1
+    path: Assets/Scenes/Developer/Scrum/1DayPart2.unity
+    guid: 8944c1018a1acec42978853e82ae6896
+  - enabled: 1
+    path: Assets/Scenes/Minigame 5/Phase/SceneP/Test1.unity
+    guid: 168c6cb8f1f1cae4287a04d16e12ae4f
+  - enabled: 1
+    path: Assets/Scenes/Minigame 5/Phase/SceneP/Test2.unity
+    guid: a350ec4b6222a14458eb9264e64d661c
+  - enabled: 1
+    path: Assets/Scenes/Minigame 5/Phase/SceneP/Design1.unity
+    guid: 1a030442266bd0847a57d505c25d660d
+  - enabled: 1
+    path: Assets/Scenes/Minigame 5/Phase/SceneP/Design2.unity
+    guid: 3fc9b7369efbd7e4089923343d66ab47
+  - enabled: 1
+    path: Assets/Scenes/Developer/Scrum/Final Sp intro.unity
+    guid: 5b99161431d2d584cab0df95ec85e8e2
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Developer/Scrum/before offer.unity
+    guid: 6e43f210a7c8e4f458dd86a7edba8ce4
+  - enabled: 1
+    path: Assets/Scenes/offer.unity
+    guid: 4bbeae0598fd2f749bbf60ab249053a2
+  - enabled: 1
+    path: Assets/Scenes/premini1.unity
+    guid: 9efa91f19eac2b2488c9004d696b4956
+  - enabled: 1
+    path: Assets/Scenes/premini4.unity
+    guid: a5160983fb807f449885a8122e6fb638
+  - enabled: 1
+    path: Assets/Scenes/allrating.unity
+    guid: 58d05fd712fd8c640865929a26f31a95
+  - enabled: 1
+    path: Assets/Scenes/totalscore.unity
+    guid: 91fe35221e74c4f4e9c33c6991e3da10
+  - enabled: 1
+    path: Assets/Scenes/mini4.unity
+    guid: bf1b1c7c2a0991c42bfb3579bc023e6e
+  - enabled: 1
+    path: Assets/Scenes/Developer/howto/Howto 1.unity
+    guid: 003774429a151e642a67d17a5c3bf409
+  - enabled: 1
+    path: Assets/Scenes/Developer/howto/Howto 2.unity
+    guid: 992aaeacac9fe2343a5910c80e98727f
+  - enabled: 1
+    path: Assets/Scenes/Developer/howto/Howto 3.unity
+    guid: 4a9eca5f3f3402b49bcbf71f77ef3c7e
+  - enabled: 1
+    path: Assets/Scenes/Developer/howto/Howto 4.unity
+    guid: 0ceacdc81d2dc2e4aa6de6ed18b45928
+  - enabled: 1
+    path: Assets/Scenes/Developer/howto/Howto Pre1.unity
+    guid: bab01de74d6a8594ea8d43706e800498
+  - enabled: 1
+    path: Assets/Scenes/Developer/howto/Howto walk.unity
+    guid: 2c20dbc61bfb2a444ada44b974ce1faf
+  - enabled: 1
+    path: Assets/Scenes/Developer/howto/Howto 5.unity
+    guid: 69f17d1b26ad3c74a9035b0081ab0556
+  - enabled: 1
+    path: Assets/Scenes/Story Telling/knowledge/Mini 1 know.unity
+    guid: 0297210b3a54ca54aac66ff6046d1848
+  - enabled: 1
+    path: Assets/Scenes/Story Telling/knowledge/Mini 2 know.unity
+    guid: c136fbce1e90ba843ac63110dade0ae7
+  - enabled: 1
+    path: Assets/Scenes/Story Telling/knowledge/Mini 3 know.unity
+    guid: 5d5f876b2ac6b5e4e964758e76e3b297
+  - enabled: 1
+    path: Assets/Scenes/Story Telling/knowledge/Mini 4 know.unity
+    guid: 9dd8acb4ed021484f86d36f9318d7ef8
+  - enabled: 1
+    path: Assets/Scenes/Story Telling/knowledge/Mini 5 know.unity
+    guid: 97416aa9b5227e9489308753ec706148
+  - enabled: 1
+    path: Assets/Scenes/Story Telling/knowledge/Pre1 know.unity
+    guid: b4715a0424a77534ab3a7870736a01df
+  - enabled: 1
+    path: Assets/Scenes/Developer/Scrum/RV.unity
+    guid: de3cdd3a2a87610468a1289aa822ff15
+  - enabled: 1
+    path: Assets/Scenes/Developer/Scrum/RV2.unity
+    guid: 96970966136fdd340ba81e7de644ec08
+  - enabled: 1
+    path: Assets/Scenes/Developer/Scrum/Retro.unity
+    guid: 7c4155273b2a60d459f0428d149a4665
+  - enabled: 1
+    path: Assets/Scenes/Developer/Scrum/RetroFinal.unity
+    guid: 18dc40e485c0ee740a30b921e198d9e1
+  m_configObjects: {}
