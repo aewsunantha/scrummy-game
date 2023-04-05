@@ -1,1 +1,1 @@
-# scrummy-game-Git-LFS-test
+# scrummy-game
